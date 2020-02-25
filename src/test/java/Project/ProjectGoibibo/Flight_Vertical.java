@@ -136,7 +136,7 @@ public class Flight_Vertical  {
   
     	driver.findElement(By.xpath(proceed_button)).click();
     	
-    	driver.findElement(By.xpath("//*[@id=\"addonCard\"]/div[1]/div/span")).click();
+    	driver.findElement(By.xpath("//*[@id=\"addonCard\"]/div[1]/div")).click();
     	
     	driver.findElement(By.xpath(select_nb)).click();
 
