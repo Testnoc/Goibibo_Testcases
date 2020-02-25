@@ -2,7 +2,7 @@
 <testng-results skipped="0" failed="0" total="10" passed="10">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="38591" started-at="2020-02-25T15:13:11Z" finished-at="2020-02-25T15:13:49Z">
+  <suite name="Default suite" duration-ms="37069" started-at="2020-02-25T20:47:18Z" finished-at="2020-02-25T20:47:55Z">
     <groups>
       <group name="Airlines_Selction">
         <method signature="Flight_Vertical.airlines_selection()[pri:5, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="airlines_selection" class="Project.ProjectGoibibo.Flight_Vertical"/>
@@ -35,31 +35,31 @@
         <method signature="Flight_Vertical.Proceed_to_payment()[pri:9, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Proceed_to_payment" class="Project.ProjectGoibibo.Flight_Vertical"/>
       </group> <!-- Proceed to payment page -->
     </groups>
-    <test name="Default test" duration-ms="38591" started-at="2020-02-25T15:13:11Z" finished-at="2020-02-25T15:13:49Z">
+    <test name="Default test" duration-ms="37069" started-at="2020-02-25T20:47:18Z" finished-at="2020-02-25T20:47:55Z">
       <class name="Project.ProjectGoibibo.Flight_Vertical">
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="beforeClass" is-config="true" duration-ms="15944" started-at="2020-02-25T15:13:11Z" finished-at="2020-02-25T15:13:27Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="beforeClass" is-config="true" duration-ms="14830" started-at="2020-02-25T20:47:18Z" finished-at="2020-02-25T20:47:33Z">
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="Icon()[pri:0, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Icon" duration-ms="1937" started-at="2020-02-25T15:13:27Z" finished-at="2020-02-25T15:13:28Z">
+        <test-method status="PASS" signature="Icon()[pri:0, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Icon" duration-ms="2574" started-at="2020-02-25T20:47:33Z" finished-at="2020-02-25T20:47:36Z">
         </test-method> <!-- Icon -->
-        <test-method status="PASS" signature="Source()[pri:1, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Source" duration-ms="1211" started-at="2020-02-25T15:13:28Z" finished-at="2020-02-25T15:13:30Z">
+        <test-method status="PASS" signature="Source()[pri:1, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Source" duration-ms="908" started-at="2020-02-25T20:47:36Z" finished-at="2020-02-25T20:47:37Z">
         </test-method> <!-- Source -->
-        <test-method status="PASS" signature="Destination()[pri:2, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Destination" duration-ms="516" started-at="2020-02-25T15:13:30Z" finished-at="2020-02-25T15:13:30Z">
+        <test-method status="PASS" signature="Destination()[pri:2, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Destination" duration-ms="416" started-at="2020-02-25T20:47:37Z" finished-at="2020-02-25T20:47:37Z">
         </test-method> <!-- Destination -->
-        <test-method status="PASS" signature="journy_date()[pri:3, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="journy_date" duration-ms="318" started-at="2020-02-25T15:13:30Z" finished-at="2020-02-25T15:13:31Z">
+        <test-method status="PASS" signature="journy_date()[pri:3, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="journy_date" duration-ms="276" started-at="2020-02-25T20:47:37Z" finished-at="2020-02-25T20:47:37Z">
         </test-method> <!-- journy_date -->
-        <test-method status="PASS" signature="search_button()[pri:4, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="search_button" duration-ms="587" started-at="2020-02-25T15:13:31Z" finished-at="2020-02-25T15:13:31Z">
+        <test-method status="PASS" signature="search_button()[pri:4, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="search_button" duration-ms="445" started-at="2020-02-25T20:47:37Z" finished-at="2020-02-25T20:47:38Z">
         </test-method> <!-- search_button -->
-        <test-method status="PASS" signature="airlines_selection()[pri:5, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="airlines_selection" duration-ms="2053" started-at="2020-02-25T15:13:31Z" finished-at="2020-02-25T15:13:33Z">
+        <test-method status="PASS" signature="airlines_selection()[pri:5, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="airlines_selection" duration-ms="2537" started-at="2020-02-25T20:47:38Z" finished-at="2020-02-25T20:47:40Z">
         </test-method> <!-- airlines_selection -->
-        <test-method status="PASS" signature="book_flight()[pri:6, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="book_flight" duration-ms="1719" started-at="2020-02-25T15:13:33Z" finished-at="2020-02-25T15:13:35Z">
+        <test-method status="PASS" signature="book_flight()[pri:6, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="book_flight" duration-ms="2043" started-at="2020-02-25T20:47:40Z" finished-at="2020-02-25T20:47:42Z">
         </test-method> <!-- book_flight -->
-        <test-method status="PASS" signature="insurance_selection()[pri:7, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="insurance_selection" duration-ms="865" started-at="2020-02-25T15:13:35Z" finished-at="2020-02-25T15:13:36Z">
+        <test-method status="PASS" signature="insurance_selection()[pri:7, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="insurance_selection" duration-ms="909" started-at="2020-02-25T20:47:42Z" finished-at="2020-02-25T20:47:43Z">
         </test-method> <!-- insurance_selection -->
-        <test-method status="PASS" signature="traveller_details()[pri:8, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="traveller_details" duration-ms="817" started-at="2020-02-25T15:13:36Z" finished-at="2020-02-25T15:13:37Z">
+        <test-method status="PASS" signature="traveller_details()[pri:8, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="traveller_details" duration-ms="705" started-at="2020-02-25T20:47:43Z" finished-at="2020-02-25T20:47:44Z">
         </test-method> <!-- traveller_details -->
-        <test-method status="PASS" signature="Proceed_to_payment()[pri:9, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Proceed_to_payment" duration-ms="10654" started-at="2020-02-25T15:13:37Z" finished-at="2020-02-25T15:13:47Z">
+        <test-method status="PASS" signature="Proceed_to_payment()[pri:9, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="Proceed_to_payment" duration-ms="9460" started-at="2020-02-25T20:47:44Z" finished-at="2020-02-25T20:47:53Z">
         </test-method> <!-- Proceed_to_payment -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="afterClass" is-config="true" duration-ms="1931" started-at="2020-02-25T15:13:47Z" finished-at="2020-02-25T15:13:49Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Project.ProjectGoibibo.Flight_Vertical@3abbfa04]" name="afterClass" is-config="true" duration-ms="1938" started-at="2020-02-25T20:47:53Z" finished-at="2020-02-25T20:47:55Z">
         </test-method> <!-- afterClass -->
       </class> <!-- Project.ProjectGoibibo.Flight_Vertical -->
     </test> <!-- Default test -->

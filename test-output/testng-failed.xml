@@ -5,8 +5,8 @@
     <classes>
       <class name="Project.ProjectGoibibo.Flight_Vertical">
         <methods>
+          <include name="Proceed_to_payment"/>
           <include name="afterClass"/>
-          <include name="Proceed_button"/>
           <include name="beforeClass"/>
         </methods>
       </class> <!-- Project.ProjectGoibibo.Flight_Vertical -->
