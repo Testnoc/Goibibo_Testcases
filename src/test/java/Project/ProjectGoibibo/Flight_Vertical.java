@@ -20,7 +20,7 @@ public class Flight_Vertical  {
 	
 	String date_picker = "//span[@class='DayPicker-NavButton DayPicker-NavButton--next']";
 	
-	String date_selection ="//*[@id=\"fare_20200323\"]";
+	String date_selection ="//*[@id=\"fare_20200423\"]";
 	
 	String search_button = "//*[@id=\"gi_search_btn\"]";
 		
