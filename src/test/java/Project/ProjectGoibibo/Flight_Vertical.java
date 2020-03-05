@@ -138,11 +138,11 @@ public class Flight_Vertical  {
     	
     	driver.findElement(By.xpath("//*[@id=\"addonCard\"]/button")).click();
     	
-    	driver.findElement(By.xpath(select_nb)).click();
+    	//driver.findElement(By.xpath(select_nb)).click();
 
-    	driver.findElement(By.xpath(select_bank)).click();
+    	//driver.findElement(By.xpath(select_bank)).click();
     	
-    	driver.findElement(By.xpath(payment_button)).click();
+    	//driver.findElement(By.xpath(payment_button)).click();
     	
     	Thread.sleep(3000);
     }
